@@ -4,7 +4,7 @@
   "description": "React-Navigation and react-router-dom",
   "main": "index.js",
   "scripts": {},
-  "repository": "https://github.com/lakshmaji/reactnative-web-navigation.git",
+  "repository": "https://github.com/lakshmaji/navigation.git",
   "author": "Lakshmaji <lakshmajee88@gmail.com>",
   "license": "MIT",
   "private": false,
