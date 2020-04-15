@@ -1,0 +1,22 @@
+{
+  "name": "@lakshmaji/navigation",
+  "version": "1.0.0",
+  "description": "React-Navigation and react-router-dom",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "https://github.com/lakshmaji/reactnative-web-navigation.git",
+  "author": "Lakshmaji <lakshmajee88@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "reactnative",
+    "react-navigation",
+    "react-router-dom",
+    "reactjs",
+    "react-native-web"
+  ],
+  "peerDependencies": {
+    "react-navigation": "*",
+    "react-router-dom": "*"
+  }
+}
