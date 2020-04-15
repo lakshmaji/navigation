@@ -1,6 +1,6 @@
 {
   "name": "@lakshmaji/navigation",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "React-Navigation and react-router-dom",
   "main": "index.js",
   "scripts": {},
